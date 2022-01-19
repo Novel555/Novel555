@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Novel555
 - 👀 I’m interested many things
 - 🌱 I’m currently learning JS, Java, Git
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on all good people on the world!
 - 📫 How to reach me ...
 
 <!---
