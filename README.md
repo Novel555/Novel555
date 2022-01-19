@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Novel555
-- 👀 I’m interested in 
+- 👀 I’m interested many things
 - 🌱 I’m currently learning JS, Java, Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
